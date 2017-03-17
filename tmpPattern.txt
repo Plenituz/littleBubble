@@ -1,0 +1,4 @@
+SpawnCloud(1.109437f, 5.039762f + Values.offsetY);
+SpawnCloud(2.189436f, 5.059762f + Values.offsetY);
+SpawnCloud(3.349437f, 5.089762f + Values.offsetY);
+yield return null;
